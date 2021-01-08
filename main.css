@@ -4,7 +4,7 @@ body {
     background-image: linear-gradient(315deg, #726cf8 8%, #eff01f 74%);
     height: 100vh;
 }
-.inbox {
+.container {
     max-width: 400px;
     margin: 50px auto;
     background-color: #fff;
